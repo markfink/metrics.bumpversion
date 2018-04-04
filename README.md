@@ -19,9 +19,9 @@ $ pip uninstall metrics.bumpversion
 for details please see the documentation of metrics.
 
 
-# metrics.pylint
+# metrics.bumpversion
 
-The **matrics.bumpversion** package is a plugin for the metrics package. 
+The **metrics.bumpversion** package is a plugin for the metrics package. 
 
 metrics.bumpversion adds version information to the "build" section of the .metrics file.
 
